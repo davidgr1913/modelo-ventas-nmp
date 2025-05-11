@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-Sistema de recomendación inteligente para acelerar la rotación de productos en la tienda en línea de Nacional Monte de Piedad, optimizando las ventas mediante inteligencia artificial, automatización y analítica avanzada.
+Sistema de recomendación inteligente basado en modelos predictivos supervisados, diseñado para estimar el tiempo de permanencia de productos en inventario a partir de sus características comerciales. El objetivo es identificar patrones que permitan recomendar acciones estratégicas que aceleren la rotación de productos y optimicen las ventas en la tienda en línea de Nacional Monte de Piedad, integrando inteligencia artificial, automatización y analítica avanzada.
 
 ## Project Organization
 
